@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TursoDb.App/TursoDb.App.csproj" />
+  <Project Path="TursoDb.Data/TursoDb.Data.csproj" />
+</Solution>
